@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+#CMake
+CMakeCache.txt
+CMakeFiles
+*.cmake
+Makefile
+
+#specific executables
+detach
+join
+stealing_async
+stealing_detach
+staeling_join
+
+#subdirectories
+fiber
