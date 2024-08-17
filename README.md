@@ -4,4 +4,4 @@ This repository contains enhanced versions of the benchmark files, created by th
 
 Additionally, a CMake-File is provided for building and executing the benchmarks binaries. 
 
-**WARNING: The "shared" benchmarks, using the NUMA-aware extension of Boost::fiber, does not work with CMake yet**
+**WARNING: The "shared" benchmarks, using the NUMA-aware extension of Boost::fiber, do not work with CMake yet**
