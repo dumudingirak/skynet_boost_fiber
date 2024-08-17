@@ -42,7 +42,7 @@ detach
 join
 stealing_async
 stealing_detach
-staeling_join
+stealing_join
 
 #subdirectories
 fiber
